@@ -65,19 +65,21 @@ This end-to-end workflow included data cleaning, integration, exploratory analys
 
 ## 📈 Key Visualisation
 
-![Stacked-Bar Histogram: Top 10 & Bottom 10 Most Visited Countries](path/to/top_bottom_10_histogram.png)  
+![Stacked-Bar Histogram: Top 10 & Bottom 10 Most Visited Countries](tourist_data_plot.png)  
 *Visitor counts broken down by Overnight, Day-trip, and Cruise passengers.*
 
 ---
 
 ## 📦 Deliverables
 
-- **Final Technical Report** – Jupyter Notebook  
-- **Customer-Facing Report** – Jupyter Notebook  
-- **Presentation Website** – [Canva Portfolio Site](https://cfgpresentation.my.canva.site/)  
-- **Trello Agile Board** – image file (Kanban snapshot)  
-- **Data Cleaning Notebook** – `unwto_data_cleaning.ipynb`  
+- **Final Technical Report** – `Project Report.ipynb`
+- **Customer-Facing Report** – `Solo Traveller Report.ipynb`
+- **Data Cleaning Notebook** – `1. UNWTO Data Cleaning.ipynb`  
 - **Visualisation Notebook** – `top_bottom_10_histogram.ipynb`
+- **Presentation Slides** – [Canva Portfolio Site](https://cfgpresentation.my.canva.site/)
+- **Trello Agile Board**
+
+![Trello Kanban Board](Trello%20Kanban%20board.jpg)
 
 ---
 
