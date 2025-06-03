@@ -15,6 +15,8 @@ To achieve this, we analysed real-world datasets and live API data:
 
 This end-to-end workflow included data cleaning, integration, exploratory analysis, and clear communication of insights through both technical reports and a customer-facing presentation.
 
+✅ **Assignment Score:** **99%**  
+
 ---
 
 ## 🛠️ Technologies & Tools Used
